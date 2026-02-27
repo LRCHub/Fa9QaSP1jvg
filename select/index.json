@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "What Goes Around",
+  "base_artist": "hololive English -Advent-",
+  "createdAt": "2026-02-27T02:10:12.730471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Goes Around Comes Around",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_What_Goes_Around_Comes_Around_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Goes Around",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/02_What_Goes_Around_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Goes Around",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/03_What_Goes_Around_Saxon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Goes Around.../...Comes Around (Interlude)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/04_What_Goes_Around..._...Comes_Around_(Interlude)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Goes Around...\u0000...Comes Around Interlude",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/05_What_Goes_Around...\u0000...Comes_Around_Interlude_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Goes Around Comes Around",
+      "artist": "Key Glock",
+      "has_synced": true,
+      "path": "select/06_What_Goes_Around_Comes_Around_Key_Glock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Goes Around Comes Around",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/07_What_Goes_Around_Comes_Around_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Goes Around...Comes Around",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/08_What_Goes_Around...Comes_Around_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Goes Around...Comes Around Interlude",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/09_What_Goes_Around...Comes_Around_Interlude_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Goes Around (Exclusive Deluxe Track)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/10_What_Goes_Around_(Exclusive_Deluxe_Track)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Goes Around, Comes Around",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/11_What_Goes_Around,_Comes_Around_Saxon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Goes Around…",
+      "artist": "Alesana",
+      "has_synced": false,
+      "path": "select/12_What_Goes_Around..._Alesana.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What Goes Around ...",
+      "artist": "Alesana",
+      "has_synced": true,
+      "path": "select/13_What_Goes_Around_..._Alesana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Goes Around Comes Around",
+      "artist": "Tony! Toni! Toné!",
+      "has_synced": true,
+      "path": "select/14_What_Goes_Around_Comes_Around_Tony!_Toni!_Toné!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Goes Around Comes Around",
+      "artist": "The Manhattan Transfer",
+      "has_synced": false,
+      "path": "select/15_What_Goes_Around_Comes_Around_The_Manhattan_Transfer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What Goes Around...Comes Around (Sebastien Leger Remix) [Radio Edit]",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/16_What_Goes_Around...Comes_Around_(Sebastien_Leger_Remix)_[Radio_Edit]_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What Goes Around... Comes Around (Sebastien Leger Remix)",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/17_What_Goes_Around..._Comes_Around_(Sebastien_Leger_Remix)_Justin_Timberlake.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Goes Around",
+      "artist": "hololive English -Advent-",
+      "has_synced": false,
+      "path": "select/pl_01_What_Goes_Around_hololive_English_-Advent-.txt"
+    }
+  ]
+}
